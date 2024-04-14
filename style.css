@@ -39,15 +39,14 @@ body{
     width: 80%;
     font-size: 24px;
     font-weight: 500;
-    text-transform: uppercase;
     padding-left: 32px;
+    text-transform: capitalize;
 }
 
 .search-box input::placeholder{
     font-size: 20px;
     font-weight: 500;
     color: #06283D;
-    text-transform: capitalize;
 }
 
 .search-box button{
